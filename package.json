@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "name": "smyck-modified-syntax",
+  "description": "Smyack modified syntax theme",
+  "theme": "syntax",
+  "repository": "https://github.com/marksweiss/inkdrop-default-light-syntax-theme",
+  "license": "MIT",
+  "styleSheets": ["default.less"],
+  "author": "marksweiss<marksimonweiss@gmail.com>",
+  "engines": {
+    "inkdrop": "^4.x"
+  }
+}
