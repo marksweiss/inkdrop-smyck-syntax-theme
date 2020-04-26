@@ -3,7 +3,7 @@
   "name": "smyck-modified-syntax",
   "description": "Smyack modified syntax theme",
   "theme": "syntax",
-  "repository": "https://github.com/marksweiss/inkdrop-default-light-syntax-theme",
+  "repository": "https://github.com/marksweiss/inkdrop-smyck-syntax-theme",
   "license": "MIT",
   "styleSheets": ["default.less"],
   "author": "marksweiss<marksimonweiss@gmail.com>",
