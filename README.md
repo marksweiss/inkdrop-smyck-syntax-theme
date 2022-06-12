@@ -2,6 +2,9 @@
 
 ## Install
 
+1. Clone this repo
+2. `cd` into the  cloned repo directory
+3. Run this command:
 ```
 ipm install smyck-modified-syntax
 ```
